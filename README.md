@@ -43,10 +43,6 @@ This project integrates a wide array of AI-driven functionalities to provide hol
 👉 **AI Career Assistant**
 * An interactive chatbot that uses your resume analysis as context. Ask specific questions like "How can I improve my 'Experience' section?" or "Explain this ATS tip further."
 
-👉 **Realistic Video Mock Interviews**
-* Practice your interview skills with a voice-enabled AI interviewer that asks questions based on your resume.
-* Features a "set your own time" option and provides a post-interview performance report, including an **overall score**, **confidence level**, and **areas for improvement**.
-
 👉 **Intelligent Job Recommendations**
 * The application analyzes your skills and experience to suggest relevant, real-world job postings that are a good fit for you.
 
